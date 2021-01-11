@@ -1,4 +1,9 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
+- role: Open Source Contributor
+  company: MLH 
+  dates: 2021
   logo: fellowship.svg
+
+- role: Open Source Contributor
+  event: Hacktoberfest
+  dates: 2020
+  logo:  hacktoberfest.jpg
